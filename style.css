@@ -159,7 +159,7 @@ header {
   min-width: 150px;
   min-height: 150px;
   background-color: var(--color-dark);
-  background-image: url("/images/image3.jpg");
+  background-image: url("images/image3.jpg");
   background-size: cover;
 }
 
